@@ -1,0 +1,11 @@
+@import "normalize";
+@import "_custom-variables";
+@import "foundation";
+
+html {
+    background: $body-bg;
+}
+
+#main {
+    padding: 0 1em;
+}
